@@ -1,0 +1,37 @@
+
+#cara{
+    margin: auto;
+    border-radius: 300px;
+    width: 500px;
+    height: 500px;
+    background-color: yellow;
+    position: relative;
+}
+#ojo1{
+    margin: auto;
+    border-radius: 100px;
+    margin-top: 70px;
+    margin-left: 80px;
+    float: left;  
+    width: 120px;
+    height: 120px;
+    background-color: black;
+}
+#nariz{
+    margin: 0 auto;
+    border-radius: 100px;
+    width: 80px;
+    height: 80px;
+    margin-top: 70px;
+    background-color: brown;
+    clear: both;
+}
+#boca{
+    margin: 0 auto;
+    border-radius: 100px;
+    width: 300px;
+    height: 80px;
+    margin-top: 70px;
+    background-color: rgb(42, 99, 165);
+    clear: both;
+}
